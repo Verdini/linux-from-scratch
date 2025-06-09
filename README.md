@@ -1,2 +1,3 @@
-# linux-from-scratch
-Building a custom linux distro from scratch
+# Linux from scratch
+
+Building custom Linux distributions from scratch
